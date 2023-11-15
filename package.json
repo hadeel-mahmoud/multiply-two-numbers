@@ -1,0 +1,26 @@
+{
+  "name": "multiply-two-numbers",
+  "version": "1.0.0",
+  "description": "Multiply two numbers and get result",
+  "main": "index.js",
+  "scripts": {
+    "build": "NODE_OPTIONS=--openssl-legacy-provider && webpack"
+  },
+  "author": "hadeel-mahmoud",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-scripts": "^5.0.1"
+  },
+  "optimization": {
+    "minimize": false
+  }
+}
