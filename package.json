@@ -1,5 +1,5 @@
 {
-  "name": "multiply-two-numbers",
+  "name": "@hadeel-mahmoud/multiply-two-numbers",
   "version": "1.0.0",
   "description": "Multiply two numbers and get result",
   "main": "index.js",
@@ -22,5 +22,13 @@
   },
   "optimization": {
     "minimize": false
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadeel-mahmoud/multiply-two-numbers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hadeel-mahmoud/multiply-two-numbers/issues"
+  },
+  "homepage": "https://github.com/hadeel-mahmoud/multiply-two-numbers#readme"
 }
