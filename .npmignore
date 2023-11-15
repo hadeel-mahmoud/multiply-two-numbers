@@ -1,4 +1,4 @@
 /src
 .babelrc
 webpack.config.js
-/.github/workflows
+/.github
