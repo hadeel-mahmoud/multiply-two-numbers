@@ -1,6 +1,6 @@
 {
   "name": "@hadeel-mahmoud/multiply-two-numbers",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Multiply two numbers and get result",
   "main": "index.js",
   "scripts": {
